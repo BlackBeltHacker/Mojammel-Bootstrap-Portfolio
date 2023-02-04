@@ -8,7 +8,7 @@ N/A
 ## Usage
 Open in browser
 
-![sample of portfolio website](./assets/images/Bootstrap-Portfolio.png)
+![sample of portfolio website](./images/Bootstrap-Portfolio.png)
 
 
 ## Credits
