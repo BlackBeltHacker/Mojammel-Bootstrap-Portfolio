@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 img {
@@ -79,3 +79,18 @@ nav.row {
     height: auto;
 }
 
+
+.separator-right {
+    border-right: 3px solid black;
+    margin: 3px auto;
+}
+
+.row-margin {
+    margin: 73px auto;
+    
+}
+
+footer {
+    margin: 20px auto;
+    padding: 20px auto;
+}
