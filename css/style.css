@@ -87,7 +87,14 @@ nav.row {
 
 .row-margin {
     margin: 73px 0;
+}
 
+.skills-row {
+    margin: 73px 0; 
+}
+
+.about-contact-row {
+    margin: 73px 0; 
 }
 
 footer {
